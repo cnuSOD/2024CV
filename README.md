@@ -16,13 +16,13 @@ Group X/document：2024CV_G01_汇报总结.PPTX + 2024CV_G01_学号_姓名_大�
 # 2024CV
 
 
-第一组：显著物体检测
+第一组：特定物体识别
 
-第二组：疲劳度检测
+第二组：场景人流检测
 
 第三组：人体动作识别
 
-第四组：车道线检测
+第四组：显著物体检测
 
 
 
@@ -32,7 +32,7 @@ Group X/document：2024CV_G01_汇报总结.PPTX + 2024CV_G01_学号_姓名_大�
 
    演示系统搭建
 
-第二次大作业（  04/22 ）
+第二次大作业（  04/15 ）
 
    1、研究现状
 
@@ -65,11 +65,11 @@ Group X/document：2024CV_G01_汇报总结.PPTX + 2024CV_G01_学号_姓名_大�
 
 显著物体检测：https://paperswithcode.com/task/salient-object-detection 
 
-疲劳度检测：见目录下代码
-
 人体动作识别：https://github.com/liutiel/AICoacher
 
 车道线检测：https://github.com/liuruijin17/LSTR
+
+疲劳度检测：见目录下代码
 
 机器人定位导航：http://wiki.ros.org/cn
 
