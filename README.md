@@ -63,6 +63,13 @@ Group X/document：2024CV_G01_汇报总结.PPTX + 2024CV_G01_学号_姓名_大�
 
 #  参考链接
 
+yolov7带tracker的仓库: https://github.com/JackWoo0831/Yolov7-tracker
+
+yolo v8: https://github.com/ultralytics/ultralytics?tab=readme-ov-file
+
+yolo v8也提供人体关节点的识别：https://docs.ultralytics.com/tasks/pose/#dataset-format
+
+
 显著物体检测：https://paperswithcode.com/task/salient-object-detection 
 
 人体动作识别：https://github.com/liutiel/AICoacher
