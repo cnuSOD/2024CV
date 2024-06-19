@@ -16,13 +16,13 @@ Group X/document：2024CV_G01_汇报总结.PPTX + 2024CV_G01_学号_姓名_大�
 # 2024CV
 
 
-第一组：特定物体识别
+第一组：特定物体识别：从当前任务扩展到细胞检测和计数，进一步区分正常细胞和病变细胞
 
-第二组：场景人流检测
+第二组：场景人流检测：移动摄像头场景下特定人群的检测和计数，扩展到无人机航拍场景下的人体识别与计数
 
-第三组：人体动作识别
+第三组：人体动作识别：复杂康复动作的识别，包括典型康复动作的理解、动作规范性检测和动作计数
 
-第四组：显著物体检测
+第四组：显著物体检测：无精确标注情况下的显著物体检测问题，扩展到弱监督学习和自监督学习方法
 
 
 
@@ -62,6 +62,13 @@ Group X/document：2024CV_G01_汇报总结.PPTX + 2024CV_G01_学号_姓名_大�
  
 
 #  参考链接
+
+yolov7带tracker的仓库: https://github.com/JackWoo0831/Yolov7-tracker
+
+yolo v8: https://github.com/ultralytics/ultralytics?tab=readme-ov-file
+
+yolo v8也提供人体关节点的识别：https://docs.ultralytics.com/tasks/pose/#dataset-format
+
 
 显著物体检测：https://paperswithcode.com/task/salient-object-detection 
 
