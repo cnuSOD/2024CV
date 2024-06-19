@@ -1,0 +1,27 @@
+文件路径，相对路径
+yolov5\train.py
+
+文件功能
+用于训练YOLOv5模型进行血癌检测。
+
+运行环境
+Python 3.6+
+PyTorch 1.7+
+安装依赖：pip install -r requirements.txt
+
+命令行参数
+--img：输入图像大小（例：416）
+--batch：每批次图像数量（例：2）
+--epochs：训练轮数（例：100）
+--data：数据集配置文件路径（例：../data.yaml）
+--cfg：模型配置文件路径（例：models/yolov5s.yaml）
+--weights：预训练权重路径（例：''表示为空）
+
+运行命令
+在命令行中运行以下命令：
+python train.py --img 416 --batch 2 --epochs 100 --data ../data.yaml --cfg models/yolov5s.yaml --weights ''
+或直接运行train.py文件
+
+注意事项
+确保数据集和配置文件路径正确。
+确保依赖项已安装。
