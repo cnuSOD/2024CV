@@ -1,6 +1,7 @@
 # Yolov5_DeepSort_Traffic-counter
 基于Yolov5_DeepSort的移动物体计数器，可以统计车流或人流量等  
-本作品基于此项目实现：https://github.com/mikel-brostrom/Yolov5_DeepSort_Pytorch  
+本作品基于此项目实现：https://github.com/mikel-brostrom/Yolov5_DeepSort_Pytorch  & https://github.com/owo12321/Yolov5_DeepSort_Traffic-counter
+
 实现了统计画面中通过检测线的物体数量的功能，包括车流、人群等。
 
 ![image](https://github.com/owo12321/Yolov5_DeepSort_Traffic-counter/blob/main/test3.gif)  
