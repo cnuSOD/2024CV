@@ -1,0 +1,72 @@
+frame0:
+line0	direction1:0, direction2:0
+
+frame1:
+line0	direction1:0, direction2:0
+
+frame2:
+line0	direction1:0, direction2:0
+
+frame3:
+line0	direction1:0, direction2:0
+
+frame4:
+line0	direction1:0, direction2:0
+
+frame5:
+line0	direction1:0, direction2:0
+
+frame6:
+line0	direction1:0, direction2:0
+
+frame7:
+line0	direction1:0, direction2:0
+
+frame8:
+line0	direction1:0, direction2:0
+
+frame9:
+line0	direction1:0, direction2:0
+
+frame10:
+line0	direction1:0, direction2:0
+
+frame11:
+line0	direction1:0, direction2:0
+
+frame12:
+line0	direction1:0, direction2:0
+
+frame13:
+line0	direction1:0, direction2:0
+
+frame14:
+line0	direction1:0, direction2:0
+
+frame15:
+line0	direction1:0, direction2:0
+
+frame16:
+line0	direction1:0, direction2:0
+
+frame17:
+line0	direction1:0, direction2:0
+
+frame18:
+line0	direction1:0, direction2:0
+
+frame19:
+line0	direction1:0, direction2:0
+
+frame20:
+line0	direction1:0, direction2:0
+
+frame21:
+line0	direction1:0, direction2:0
+
+frame22:
+line0	direction1:0, direction2:0
+
+frame23:
+line0	direction1:1, direction2:0
+
